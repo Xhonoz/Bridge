@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://C:\Users\Carmen\AndroidProjects\HoneymoonBridge\DAT190.iml" filepath="C:\Users\Carmen\AndroidProjects\HoneymoonBridge\DAT190.iml" />
+=======
+>>>>>>> 5a2a419f4265a885e579999ac98ed87820e5fb4b
       <module fileurl="file://$PROJECT_DIR$/HoneymoonBridge.iml" filepath="$PROJECT_DIR$/HoneymoonBridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
